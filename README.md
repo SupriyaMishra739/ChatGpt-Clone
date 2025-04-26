@@ -12,7 +12,7 @@ Check out the live version here:
 
 ---
 
-## ✨ Features
+## Features
 
 - Chat interface with assistant and user messages
 - API route for backend interaction
@@ -23,7 +23,7 @@ Check out the live version here:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
