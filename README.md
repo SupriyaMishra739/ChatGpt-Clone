@@ -3,6 +3,13 @@
 A simple ChatGPT clone built with **Next.js 14**, **TypeScript**, and **TailwindCSS**.  
 This project mimics a basic chat interface, allowing users to send messages and receive responses — demonstrating API integration and component-based UI building.
 
+## 🌐 Live Demo
+
+Check out the live version here:  
+👉 [ChatGPT Clone Live](https://chat-gpt-clone-eta-six.vercel.app/)
+
+
+
 ---
 
 ## ✨ Features
