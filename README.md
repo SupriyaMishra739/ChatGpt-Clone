@@ -20,7 +20,7 @@ This project mimics a basic chat interface, allowing users to send messages and 
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/YourUsername/Chatgpt-Clone.git
 cd Chatgpt-Clone/my-app
 
